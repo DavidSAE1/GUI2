@@ -1,0 +1,1373 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC *FHD">
+    <display-name lang="es">AMC *FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal BitMe">
+    <display-name lang="es">Canal BitMe"&gt;BitMe</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network (México)">
+    <display-name lang="es">cartoon network</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax (México)">
+    <display-name lang="es">Cinemax</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central (México)">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN (México)">
+    <display-name lang="es">ESPN</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO 2 (México)">
+    <display-name lang="es">HBO 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210719003500 -0500" stop="20210719022500 -0500" channel="AMC *FHD">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20210719022500 -0500" stop="20210719041500 -0500" channel="AMC *FHD">
+    <title lang="es">Blitz</title>
+  </programme>
+  <programme start="20210719041500 -0500" stop="20210719060000 -0500" channel="AMC *FHD">
+    <title lang="es">La hija de Dios</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719063000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719063000 -0500" stop="20210719070000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719070000 -0500" stop="20210719073000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719073000 -0500" stop="20210719080000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719080000 -0500" stop="20210719083000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719083000 -0500" stop="20210719090000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719090000 -0500" stop="20210719093000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719093000 -0500" stop="20210719100000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210719100000 -0500" stop="20210719115000 -0500" channel="AMC *FHD">
+    <title lang="es">4 Minutos Para La Gloria</title>
+  </programme>
+  <programme start="20210719115000 -0500" stop="20210719135000 -0500" channel="AMC *FHD">
+    <title lang="es">Dragon Blade</title>
+  </programme>
+  <programme start="20210719135000 -0500" stop="20210719155500 -0500" channel="AMC *FHD">
+    <title lang="es">Camino a Estambul</title>
+  </programme>
+  <programme start="20210719155500 -0500" stop="20210719180500 -0500" channel="AMC *FHD">
+    <title lang="es">Culpable o Inocente</title>
+  </programme>
+  <programme start="20210719180500 -0500" stop="20210719195000 -0500" channel="AMC *FHD">
+    <title lang="es">Hércules</title>
+  </programme>
+  <programme start="20210719195000 -0500" stop="20210719220000 -0500" channel="AMC *FHD">
+    <title lang="es">El líder</title>
+  </programme>
+  <programme start="20210719220000 -0500" stop="20210719230000 -0500" channel="AMC *FHD">
+    <title lang="es">Reprisal</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210720004000 -0500" channel="AMC *FHD">
+    <title lang="es">El Mecánico</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721004000 -0500" channel="AMC *FHD">
+    <title lang="es">El Mecánico</title>
+  </programme>
+  <programme start="20210721004000 -0500" stop="20210721014000 -0500" channel="AMC *FHD">
+    <title lang="es">Reprisal</title>
+  </programme>
+  <programme start="20210721014000 -0500" stop="20210721035500 -0500" channel="AMC *FHD">
+    <title lang="es">El lado luminoso de la vida</title>
+  </programme>
+  <programme start="20210721035500 -0500" stop="20210721045500 -0500" channel="AMC *FHD">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210721045500 -0500" stop="20210721053000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210721053000 -0500" stop="20210721060000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210721100000 -0500" stop="20210721115500 -0500" channel="AMC *FHD">
+    <title lang="es">El reino prohibido</title>
+  </programme>
+  <programme start="20210721115500 -0500" stop="20210721133000 -0500" channel="AMC *FHD">
+    <title lang="es">7500</title>
+  </programme>
+  <programme start="20210721133000 -0500" stop="20210721140000 -0500" channel="AMC *FHD">
+    <title lang="es">Action Zone</title>
+  </programme>
+  <programme start="20210721140000 -0500" stop="20210721154000 -0500" channel="AMC *FHD">
+    <title lang="es">La espada sagrada</title>
+  </programme>
+  <programme start="20210721154000 -0500" stop="20210721180500 -0500" channel="AMC *FHD">
+    <title lang="es">Hombre de Familia</title>
+  </programme>
+  <programme start="20210721180500 -0500" stop="20210721200500 -0500" channel="AMC *FHD">
+    <title lang="es">Asesinos de élite</title>
+  </programme>
+  <programme start="20210721200500 -0500" stop="20210721220000 -0500" channel="AMC *FHD">
+    <title lang="es">La trama</title>
+  </programme>
+  <programme start="20210721220000 -0500" stop="20210721235000 -0500" channel="AMC *FHD">
+    <title lang="es">Como si fuera la primera vez</title>
+  </programme>
+  <programme start="20210721235000 -0500" stop="20210722014500 -0500" channel="AMC *FHD">
+    <title lang="es">Juego de Asesinos</title>
+  </programme>
+  <programme start="20210719003000 -0500" stop="20210719010000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719010000 -0500" stop="20210719013000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210719013000 -0500" stop="20210719020000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210719020000 -0500" stop="20210719023000 -0500" channel="Canal BitMe">
+    <title lang="es">Another</title>
+  </programme>
+  <programme start="20210719023000 -0500" stop="20210719030000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210719030000 -0500" stop="20210719033000 -0500" channel="Canal BitMe">
+    <title lang="es">Tales of Zestiria the cross</title>
+  </programme>
+  <programme start="20210719033000 -0500" stop="20210719040000 -0500" channel="Canal BitMe">
+    <title lang="es">Tales of Zestiria the cross</title>
+  </programme>
+  <programme start="20210719040000 -0500" stop="20210719043000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719043000 -0500" stop="20210719050000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719050000 -0500" stop="20210719053000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210719053000 -0500" stop="20210719060000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719070000 -0500" channel="Canal BitMe">
+    <title lang="es">Universo marcial</title>
+  </programme>
+  <programme start="20210719070000 -0500" stop="20210719073000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719073000 -0500" stop="20210719080000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719080000 -0500" stop="20210719083000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719083000 -0500" stop="20210719090000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719090000 -0500" stop="20210719093000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210719093000 -0500" stop="20210719100000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210719100000 -0500" stop="20210719103000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210719103000 -0500" stop="20210719110000 -0500" channel="Canal BitMe">
+    <title lang="es">Guerreras mágicas</title>
+  </programme>
+  <programme start="20210719110000 -0500" stop="20210719113000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20210719113000 -0500" stop="20210719120000 -0500" channel="Canal BitMe">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20210719120000 -0500" stop="20210719133000 -0500" channel="Canal BitMe">
+    <title lang="es">Mortadelo y Filemón</title>
+  </programme>
+  <programme start="20210719133000 -0500" stop="20210719140000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719140000 -0500" stop="20210719143000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210719143000 -0500" stop="20210719150000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719150000 -0500" stop="20210719153000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719153000 -0500" stop="20210719160000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210719160000 -0500" stop="20210719163000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210719163000 -0500" stop="20210719170000 -0500" channel="Canal BitMe">
+    <title lang="es">Mazinger Z</title>
+  </programme>
+  <programme start="20210719170000 -0500" stop="20210719173000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210719173000 -0500" stop="20210719180000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210719180000 -0500" stop="20210719183000 -0500" channel="Canal BitMe">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20210719183000 -0500" stop="20210719190000 -0500" channel="Canal BitMe">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20210719190000 -0500" stop="20210719203000 -0500" channel="Canal BitMe">
+    <title lang="es">Pinocchio parte 1</title>
+  </programme>
+  <programme start="20210719203000 -0500" stop="20210719210000 -0500" channel="Canal BitMe">
+    <title lang="es">Los González</title>
+  </programme>
+  <programme start="20210719210000 -0500" stop="20210719213000 -0500" channel="Canal BitMe">
+    <title lang="es">Cuenta pendiente</title>
+  </programme>
+  <programme start="20210719213000 -0500" stop="20210719220000 -0500" channel="Canal BitMe">
+    <title lang="es">Súper X</title>
+  </programme>
+  <programme start="20210719220000 -0500" stop="20210719230000 -0500" channel="Canal BitMe">
+    <title lang="es">El pantera</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210720000000 -0500" channel="Canal BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720003000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720003000 -0500" stop="20210720010000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720013000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210720013000 -0500" stop="20210720020000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720023000 -0500" channel="Canal BitMe">
+    <title lang="es">Another</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720033000 -0500" channel="Canal BitMe">
+    <title lang="es">Tales of Zestiria the cross</title>
+  </programme>
+  <programme start="20210720033000 -0500" stop="20210720040000 -0500" channel="Canal BitMe">
+    <title lang="es">Tales of Zestiria the cross</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720043000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720043000 -0500" stop="20210720050000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal BitMe">
+    <title lang="es">Fullmetal Alchemist</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720073000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720073000 -0500" stop="20210720080000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720083000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720083000 -0500" stop="20210720090000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720103000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210720103000 -0500" stop="20210720110000 -0500" channel="Canal BitMe">
+    <title lang="es">Guerreras mágicas</title>
+  </programme>
+  <programme start="20210720120000 -0500" stop="20210720133000 -0500" channel="Canal BitMe">
+    <title lang="es">Pinocchio parte 1</title>
+  </programme>
+  <programme start="20210720133000 -0500" stop="20210720140000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720143000 -0500" channel="Canal BitMe">
+    <title lang="es">Naruto</title>
+  </programme>
+  <programme start="20210720143000 -0500" stop="20210720150000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720153000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720160000 -0500" channel="Canal BitMe">
+    <title lang="es">Caballeros del Zodiaco Asgard</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720173000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210720173000 -0500" stop="20210720180000 -0500" channel="Canal BitMe">
+    <title lang="es">Sailor moon</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720210000 -0500" channel="Canal BitMe">
+    <title lang="es">Power Rangers</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720213000 -0500" channel="Canal BitMe">
+    <title lang="es">Cuenta pendiente</title>
+  </programme>
+  <programme start="20210720213000 -0500" stop="20210720220000 -0500" channel="Canal BitMe">
+    <title lang="es">Súper X</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720230000 -0500" channel="Canal BitMe">
+    <title lang="es">El pantera</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal BitMe">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20210719010000 -0500" stop="20210719020000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210719020000 -0500" stop="20210719030000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719030000 -0500" stop="20210719040000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20210719040000 -0500" stop="20210719050000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210719050000 -0500" stop="20210719060000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719071000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210719071000 -0500" stop="20210719074000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210719074000 -0500" stop="20210719080000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Viajes Pokémon</title>
+  </programme>
+  <programme start="20210719080000 -0500" stop="20210719083000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719083000 -0500" stop="20210719093000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210719093000 -0500" stop="20210719103000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719103000 -0500" stop="20210719110000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210719110000 -0500" stop="20210719113000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Barbie Dreamhouse Adventures</title>
+  </programme>
+  <programme start="20210719113000 -0500" stop="20210719120000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210719120000 -0500" stop="20210719130000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210719130000 -0500" stop="20210719140000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719140000 -0500" stop="20210719150000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210719150000 -0500" stop="20210719160000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Best of CN</title>
+  </programme>
+  <programme start="20210719160000 -0500" stop="20210719170000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719170000 -0500" stop="20210719174500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210719174500 -0500" stop="20210719180000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">¡Ya calmate, Ninjin</title>
+  </programme>
+  <programme start="20210719180000 -0500" stop="20210719183000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210719183000 -0500" stop="20210719190000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210719190000 -0500" stop="20210719194500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719194500 -0500" stop="20210719200000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Looney Tunes Cartoons</title>
+  </programme>
+  <programme start="20210719200000 -0500" stop="20210719204500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210719204500 -0500" stop="20210719210000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210719210000 -0500" stop="20210719220000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210719220000 -0500" stop="20210719230000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210720000000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720002500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Dragon ball super</title>
+  </programme>
+  <programme start="20210720002500 -0500" stop="20210720010000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Dr. Stone</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720020000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Best of CN</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720030000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720040000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720050000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720060000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720071000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210720071000 -0500" stop="20210720074000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Transformers Cyberverse</title>
+  </programme>
+  <programme start="20210720074000 -0500" stop="20210720080000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Viajes Pokémon</title>
+  </programme>
+  <programme start="20210720080000 -0500" stop="20210720083000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720083000 -0500" stop="20210720093000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210720093000 -0500" stop="20210720103000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720103000 -0500" stop="20210720110000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720113000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210720113000 -0500" stop="20210720120000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210720120000 -0500" stop="20210720130000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210720130000 -0500" stop="20210720140000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720140000 -0500" stop="20210720150000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720160000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Best of CN</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720170000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720174500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210720174500 -0500" stop="20210720180000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Any Malu Show</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720183000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210720183000 -0500" stop="20210720190000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">DC Super Hero Girls</title>
+  </programme>
+  <programme start="20210720190000 -0500" stop="20210720194500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720194500 -0500" stop="20210720200000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720204500 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20210720204500 -0500" stop="20210720210000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Victor y Valentino</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720220000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Drama Total La guardería</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720230000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20210720230000 -0500" stop="20210721000000 -0500" channel="Canal Cartoon Network (México)">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20210719004800 -0500" stop="20210719042200 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">El Lobo de Wall Street</title>
+  </programme>
+  <programme start="20210719042200 -0500" stop="20210719060000 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Cuál es mi nombre Muhammad A</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719073600 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los piratas que no hacen nada</title>
+  </programme>
+  <programme start="20210719073600 -0500" stop="20210719091800 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">La mujer milagrosa</title>
+  </programme>
+  <programme start="20210719091800 -0500" stop="20210719110100 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210719110100 -0500" stop="20210719134300 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Jerry Maguire Amor y desafío</title>
+  </programme>
+  <programme start="20210719134300 -0500" stop="20210719153400 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los pitufos</title>
+  </programme>
+  <programme start="20210719153400 -0500" stop="20210719170500 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Sinbad La Leyenda</title>
+  </programme>
+  <programme start="20210719170500 -0500" stop="20210719191600 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Juego de viernes por la noche</title>
+  </programme>
+  <programme start="20210719191600 -0500" stop="20210719210000 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210719210000 -0500" stop="20210719225100 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los pitufos</title>
+  </programme>
+  <programme start="20210719225100 -0500" stop="20210720005800 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">La última estación</title>
+  </programme>
+  <programme start="20210720005800 -0500" stop="20210720031800 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Expiación, deseo y pecado</title>
+  </programme>
+  <programme start="20210720031800 -0500" stop="20210720060000 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Juegos de Pasión</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720080900 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Hambre de Poder</title>
+  </programme>
+  <programme start="20210720080900 -0500" stop="20210720093700 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los extraños</title>
+  </programme>
+  <programme start="20210720093700 -0500" stop="20210720113300 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">La cosa</title>
+  </programme>
+  <programme start="20210720113300 -0500" stop="20210720132200 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20210720132200 -0500" stop="20210720151700 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20210720151700 -0500" stop="20210720173700 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">El Hombre Más Buscado</title>
+  </programme>
+  <programme start="20210720173700 -0500" stop="20210720191900 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Presencia Siniestra</title>
+  </programme>
+  <programme start="20210720191900 -0500" stop="20210720210000 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">En el Tornado</title>
+  </programme>
+  <programme start="20210720210000 -0500" stop="20210720224900 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20210720224900 -0500" stop="20210721004500 -0500" channel="Canal Cinemax (México)">
+    <title lang="es">La cosa</title>
+  </programme>
+  <programme start="20210719003000 -0500" stop="20210719010000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20210719010000 -0500" stop="20210719012500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20210719012500 -0500" stop="20210719015500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210719015500 -0500" stop="20210719022000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210719022000 -0500" stop="20210719024500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719024500 -0500" stop="20210719031000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719031000 -0500" stop="20210719033500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719033500 -0500" stop="20210719040000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719040000 -0500" stop="20210719043000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719043000 -0500" stop="20210719050000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210719050000 -0500" stop="20210719053000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210719053000 -0500" stop="20210719060000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719062500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20210719062500 -0500" stop="20210719065000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210719065000 -0500" stop="20210719072000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20210719072000 -0500" stop="20210719074500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210719074500 -0500" stop="20210719081000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20210719081000 -0500" stop="20210719084000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210719084000 -0500" stop="20210719090500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210719090500 -0500" stop="20210719093500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210719093500 -0500" stop="20210719100000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210719100000 -0500" stop="20210719103000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Everybody Hates Chris</title>
+  </programme>
+  <programme start="20210719103000 -0500" stop="20210719105500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">My wife and kids</title>
+  </programme>
+  <programme start="20210719105500 -0500" stop="20210719112000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210719112000 -0500" stop="20210719115000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210719115000 -0500" stop="20210719121500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719121500 -0500" stop="20210719124500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719124500 -0500" stop="20210719131000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719131000 -0500" stop="20210719134000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719134000 -0500" stop="20210719140500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719140500 -0500" stop="20210719143500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719143500 -0500" stop="20210719150000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719150000 -0500" stop="20210719155500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210719155500 -0500" stop="20210719162000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210719162000 -0500" stop="20210719164500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210719164500 -0500" stop="20210719172000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210719172000 -0500" stop="20210719174500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719174500 -0500" stop="20210719181500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719181500 -0500" stop="20210719184000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210719184000 -0500" stop="20210719190500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719190500 -0500" stop="20210719200000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210719200000 -0500" stop="20210719203000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210719203000 -0500" stop="20210719205500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210719205500 -0500" stop="20210719212000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210719212000 -0500" stop="20210719215500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210719215500 -0500" stop="20210719223000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210719223000 -0500" stop="20210719230000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210719233000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210719233000 -0500" stop="20210720000000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720002500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720002500 -0500" stop="20210720005000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720005000 -0500" stop="20210720013500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Duelo de Comediantes</title>
+  </programme>
+  <programme start="20210720013500 -0500" stop="20210720022000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Duelo de Comediantes</title>
+  </programme>
+  <programme start="20210720022000 -0500" stop="20210720024500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720024500 -0500" stop="20210720031000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720031000 -0500" stop="20210720033500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720033500 -0500" stop="20210720040000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720040000 -0500" stop="20210720043000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720043000 -0500" stop="20210720050000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720053000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210720053000 -0500" stop="20210720060000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720062500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20210720062500 -0500" stop="20210720065000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ugly Americans</title>
+  </programme>
+  <programme start="20210720065000 -0500" stop="20210720072000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20210720072000 -0500" stop="20210720074500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La Familia del Barrio</title>
+  </programme>
+  <programme start="20210720074500 -0500" stop="20210720081000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20210720081000 -0500" stop="20210720084000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210720084000 -0500" stop="20210720090500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20210720090500 -0500" stop="20210720093500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210720093500 -0500" stop="20210720100000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Schitt's Creek</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720103000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Everybody Hates Chris</title>
+  </programme>
+  <programme start="20210720103000 -0500" stop="20210720105500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">My wife and kids</title>
+  </programme>
+  <programme start="20210720105500 -0500" stop="20210720112000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720112000 -0500" stop="20210720115000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720115000 -0500" stop="20210720121500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720121500 -0500" stop="20210720124500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720124500 -0500" stop="20210720131000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720131000 -0500" stop="20210720134000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210720134000 -0500" stop="20210720140500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210720140500 -0500" stop="20210720143500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210720143500 -0500" stop="20210720150000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720155500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210720155500 -0500" stop="20210720162000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720162000 -0500" stop="20210720164500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720164500 -0500" stop="20210720172000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20210720172000 -0500" stop="20210720174500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210720174500 -0500" stop="20210720181500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">La familia P.Luche</title>
+  </programme>
+  <programme start="20210720181500 -0500" stop="20210720184000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210720184000 -0500" stop="20210720190500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20210720190500 -0500" stop="20210720200000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Mi corazón es tuyo</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720203000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720203000 -0500" stop="20210720205500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720205500 -0500" stop="20210720212000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210720212000 -0500" stop="20210720214500 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720214500 -0500" stop="20210720221000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20210720221000 -0500" stop="20210720233000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">De ratas y políticos</title>
+  </programme>
+  <programme start="20210720233000 -0500" stop="20210721000000 -0500" channel="Canal Comedy Central (México)">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20210719001500 -0500" stop="20210719004000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210719004000 -0500" stop="20210719010200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20210719010200 -0500" stop="20210719012700 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210719012700 -0500" stop="20210719015000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210719015000 -0500" stop="20210719021400 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210719021400 -0500" stop="20210719023500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210719023500 -0500" stop="20210719025900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210719025900 -0500" stop="20210719032200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210719032200 -0500" stop="20210719034500 -0500" channel="Canal Disney Junior">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20210719034500 -0500" stop="20210719040900 -0500" channel="Canal Disney Junior">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20210719040900 -0500" stop="20210719043300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210719043300 -0500" stop="20210719045700 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210719045700 -0500" stop="20210719052100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Dra. Juguetes y su hospital</title>
+  </programme>
+  <programme start="20210719052100 -0500" stop="20210719054500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210719054500 -0500" stop="20210719060000 -0500" channel="Canal Disney Junior">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719063100 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210719063100 -0500" stop="20210719070000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20210719070000 -0500" stop="20210719071500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210719071500 -0500" stop="20210719073100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210719073100 -0500" stop="20210719084500 -0500" channel="Canal Disney Junior">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20210719084500 -0500" stop="20210719090100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20210719090100 -0500" stop="20210719092700 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210719092700 -0500" stop="20210719094200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210719094200 -0500" stop="20210719102500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210719102500 -0500" stop="20210719104000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Nivis Amigos de otro mundo</title>
+  </programme>
+  <programme start="20210719104000 -0500" stop="20210719110000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210719110000 -0500" stop="20210719113000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210719113000 -0500" stop="20210719120000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210719120000 -0500" stop="20210719123000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210719123000 -0500" stop="20210719131300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210719131300 -0500" stop="20210719134500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Calle Dálmatas 101</title>
+  </programme>
+  <programme start="20210719134500 -0500" stop="20210719140000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210719140000 -0500" stop="20210719143000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210719143000 -0500" stop="20210719145900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20210719145900 -0500" stop="20210719153000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210719153000 -0500" stop="20210719160000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210719160000 -0500" stop="20210719164400 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210719164400 -0500" stop="20210719170000 -0500" channel="Canal Disney Junior">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20210719170000 -0500" stop="20210719174300 -0500" channel="Canal Disney Junior">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20210719174300 -0500" stop="20210719180000 -0500" channel="Canal Disney Junior">
+    <title lang="es">TOTS Servicio de entrega</title>
+  </programme>
+  <programme start="20210719180000 -0500" stop="20210719183000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210719183000 -0500" stop="20210719190000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210719190000 -0500" stop="20210719191500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20210719191500 -0500" stop="20210719193000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210719193000 -0500" stop="20210719194500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210719194500 -0500" stop="20210719200300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210719200300 -0500" stop="20210719204100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210719204100 -0500" stop="20210719211200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210719211200 -0500" stop="20210719214400 -0500" channel="Canal Disney Junior">
+    <title lang="es">Rocketeer</title>
+  </programme>
+  <programme start="20210719214400 -0500" stop="20210719221300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210719221300 -0500" stop="20210719224700 -0500" channel="Canal Disney Junior">
+    <title lang="es">Morko y Mali</title>
+  </programme>
+  <programme start="20210719224700 -0500" stop="20210719232900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210719232900 -0500" stop="20210720000000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720002100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210720002100 -0500" stop="20210720004600 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210720004600 -0500" stop="20210720010800 -0500" channel="Canal Disney Junior">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20210720010800 -0500" stop="20210720013200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210720013200 -0500" stop="20210720015500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210720015500 -0500" stop="20210720021900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210720021900 -0500" stop="20210720024100 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210720024100 -0500" stop="20210720030500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210720030500 -0500" stop="20210720032800 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210720032800 -0500" stop="20210720035100 -0500" channel="Canal Disney Junior">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20210720035100 -0500" stop="20210720041500 -0500" channel="Canal Disney Junior">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20210720041500 -0500" stop="20210720044000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210720044000 -0500" stop="20210720050300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210720050300 -0500" stop="20210720052600 -0500" channel="Canal Disney Junior">
+    <title lang="es">Dra. Juguetes y su hospital</title>
+  </programme>
+  <programme start="20210720052600 -0500" stop="20210720060000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720063000 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210720063000 -0500" stop="20210720070000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Princesita Sofía</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720072900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210720072900 -0500" stop="20210720084600 -0500" channel="Canal Disney Junior">
+    <title lang="es">La Guardia del León</title>
+  </programme>
+  <programme start="20210720084600 -0500" stop="20210720090200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mira La detective del reino</title>
+  </programme>
+  <programme start="20210720090200 -0500" stop="20210720092700 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210720092700 -0500" stop="20210720094200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210720094200 -0500" stop="20210720101200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210720101200 -0500" stop="20210720104000 -0500" channel="Canal Disney Junior">
+    <title lang="es">TOTS Servicio de entrega</title>
+  </programme>
+  <programme start="20210720104000 -0500" stop="20210720110000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720113000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210720120000 -0500" stop="20210720123000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210720123000 -0500" stop="20210720131300 -0500" channel="Canal Disney Junior">
+    <title lang="es">Doctora Juguetes</title>
+  </programme>
+  <programme start="20210720131300 -0500" stop="20210720134500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Calle Dálmatas 101</title>
+  </programme>
+  <programme start="20210720134500 -0500" stop="20210720140000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210720143000 -0500" stop="20210720150000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Art Attack</title>
+  </programme>
+  <programme start="20210720150000 -0500" stop="20210720153000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Puppy Dog Pals</title>
+  </programme>
+  <programme start="20210720153000 -0500" stop="20210720160000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210720160000 -0500" stop="20210720164300 -0500" channel="Canal Disney Junior">
+    <title lang="es">La casa de Mickey Mouse</title>
+  </programme>
+  <programme start="20210720164300 -0500" stop="20210720170000 -0500" channel="Canal Disney Junior">
+    <title lang="es">MickeyAventuras sobre ruedas</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720183000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20210720183000 -0500" stop="20210720190000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210720191500 -0500" stop="20210720194400 -0500" channel="Canal Disney Junior">
+    <title lang="es">Fancy Nancy Clancy</title>
+  </programme>
+  <programme start="20210720194400 -0500" stop="20210720200000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Mickey Mouse Mix de aventura</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720204000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Muppet Babies</title>
+  </programme>
+  <programme start="20210720204000 -0500" stop="20210720211200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210720211200 -0500" stop="20210720214200 -0500" channel="Canal Disney Junior">
+    <title lang="es">Rocketeer</title>
+  </programme>
+  <programme start="20210720214200 -0500" stop="20210720221500 -0500" channel="Canal Disney Junior">
+    <title lang="es">Elena de Avalor</title>
+  </programme>
+  <programme start="20210720221500 -0500" stop="20210720223900 -0500" channel="Canal Disney Junior">
+    <title lang="es">Morko y Mali</title>
+  </programme>
+  <programme start="20210720223900 -0500" stop="20210720232700 -0500" channel="Canal Disney Junior">
+    <title lang="es">Vampirina</title>
+  </programme>
+  <programme start="20210720232700 -0500" stop="20210721000000 -0500" channel="Canal Disney Junior">
+    <title lang="es">Junior Express</title>
+  </programme>
+  <programme start="20210719001500 -0500" stop="20210719010000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719010000 -0500" stop="20210719030000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Bayern Múnich vs. Koln</title>
+  </programme>
+  <programme start="20210719030000 -0500" stop="20210719050000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Sevilla vs. Coventry City</title>
+  </programme>
+  <programme start="20210719050000 -0500" stop="20210719060000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719080000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20210719080000 -0500" stop="20210719090000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719090000 -0500" stop="20210719100000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719100000 -0500" stop="20210719110000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719110000 -0500" stop="20210719130000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Betis vs. Winterhur</title>
+  </programme>
+  <programme start="20210719130000 -0500" stop="20210719150000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210719150000 -0500" stop="20210719160000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719160000 -0500" stop="20210719170000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210719170000 -0500" stop="20210719173000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210719173000 -0500" stop="20210719180000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">En sus zapatos</title>
+  </programme>
+  <programme start="20210719180000 -0500" stop="20210719190000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719190000 -0500" stop="20210719220000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Cubs vs. Cardinals</title>
+  </programme>
+  <programme start="20210719220000 -0500" stop="20210719230000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210720000000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720010000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720010000 -0500" stop="20210720020000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720020000 -0500" stop="20210720030000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210720030000 -0500" stop="20210720050000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20210720050000 -0500" stop="20210720060000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720070000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Futbol Picante</title>
+  </programme>
+  <programme start="20210720070000 -0500" stop="20210720073000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720073000 -0500" stop="20210720080000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN Run</title>
+  </programme>
+  <programme start="20210720100000 -0500" stop="20210720110000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">ESPN FC</title>
+  </programme>
+  <programme start="20210720110000 -0500" stop="20210720130000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">30 For 30</title>
+  </programme>
+  <programme start="20210720170000 -0500" stop="20210720180000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720180000 -0500" stop="20210720193000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210720193000 -0500" stop="20210720200000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">NBA esta noche</title>
+  </programme>
+  <programme start="20210720200000 -0500" stop="20210720223000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">Suns vs. Bucks</title>
+  </programme>
+  <programme start="20210720223000 -0500" stop="20210720230000 -0500" channel="Canal ESPN (México)">
+    <title lang="es">SportsCenter</title>
+  </programme>
+  <programme start="20210719013500 -0500" stop="20210719034500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20210719034500 -0500" stop="20210719060000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Invictus</title>
+  </programme>
+  <programme start="20210719060000 -0500" stop="20210719075000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Antebellum</title>
+  </programme>
+  <programme start="20210719075000 -0500" stop="20210719100000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Oblivion</title>
+  </programme>
+  <programme start="20210719100000 -0500" stop="20210719113000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Jexi Un celular sin filtro</title>
+  </programme>
+  <programme start="20210719113000 -0500" stop="20210719130000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Madagascar</title>
+  </programme>
+  <programme start="20210719130000 -0500" stop="20210719144000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20210719144000 -0500" stop="20210719163000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Feliz novedad</title>
+  </programme>
+  <programme start="20210719163000 -0500" stop="20210719183000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Oslo</title>
+  </programme>
+  <programme start="20210719183000 -0500" stop="20210719201000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20210719201000 -0500" stop="20210719220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Antebellum</title>
+  </programme>
+  <programme start="20210719220000 -0500" stop="20210719230000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210719230000 -0500" stop="20210720000000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">The White Lotus</title>
+  </programme>
+  <programme start="20210720000000 -0500" stop="20210720013500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El Coyote</title>
+  </programme>
+  <programme start="20210720013500 -0500" stop="20210720023500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La muchacha que limpia</title>
+  </programme>
+  <programme start="20210720023500 -0500" stop="20210720042000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Feliz novedad</title>
+  </programme>
+  <programme start="20210720042000 -0500" stop="20210720060000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Nadando por el oro</title>
+  </programme>
+  <programme start="20210720060000 -0500" stop="20210720075500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Fuera de la ley</title>
+  </programme>
+  <programme start="20210720075500 -0500" stop="20210720101000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Tropa de Héroes</title>
+  </programme>
+  <programme start="20210720101000 -0500" stop="20210720120500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El plan perfecto El impostor</title>
+  </programme>
+  <programme start="20210720120500 -0500" stop="20210720134000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La Hora de tu Muerte</title>
+  </programme>
+  <programme start="20210720134000 -0500" stop="20210720155000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El Hombre invisible</title>
+  </programme>
+  <programme start="20210720155000 -0500" stop="20210720181500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El arte de ser adulto</title>
+  </programme>
+  <programme start="20210720181500 -0500" stop="20210720200500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Rápido y Furioso</title>
+  </programme>
+  <programme start="20210720200500 -0500" stop="20210720220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Más rápido más furioso</title>
+  </programme>
+  <programme start="20210720220000 -0500" stop="20210720235000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Rápidos y furiosos</title>
+  </programme>
+  <programme start="20210720235000 -0500" stop="20210721014000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Rápido y furioso Reto Tokio</title>
+  </programme>
+</tv>
